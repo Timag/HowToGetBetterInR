@@ -16,7 +16,9 @@ Step 2) Racing with other users for best / fastest answer.
 
 Step 2) can be demoralizing as a new be in a field not always most welcoming :).
 
-
+If you are good enough to race with other users on #SO on real live examples for best/fastest 
+answer, you will be efficient applying the library in future use cases.
+If not go back to tutorials / top user answers and repeat the process until you are.
 
 
 # Asking Questions
